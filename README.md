@@ -190,39 +190,17 @@ We welcome contributions to improve the dashboard! Here's how you can help:
 
 ---
 
-## 📞 **Connect & Feedback**
+## 📞 Support & Contact
 
-### **Creator**
-- **GitHub**: [@Khizar246](https://github.com/Khizar246)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile)
-
-### **Feedback**
-- 🐛 **Bug Reports**: [Create an Issue](https://github.com/Khizar246/IndianITJobTrends.github.io/issues)
-- 💡 **Feature Ideas**: [Start a Discussion](https://github.com/Khizar246/IndianITJobTrends.github.io/discussions)
-- ⭐ **Show Support**: Star this repository if it helped you!
-
----
-
-## 📄 **License**
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 🙏 **Acknowledgments**
-
-- **Indian IT Community** for inspiring this project
-- **Open Source Libraries** that made this possible (Chart.js, Papa Parse)
-- **Data Sources** that provided the foundation for analysis
-- **Beta Testers** who provided valuable feedback
+Kindly feel free to use the project however you like just mention my linkedinID with it and feel free to reach out to me on my email.
+- **Email**: khizerstudy75@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/khizar246/
 
 ---
 
 <div align="center">
 
 ### 🌟 **Star this repo if it helped your career journey!** 🌟
-
-**Built with ❤️ for the Indian tech community**
 
 [⬆️ Back to Top](#-indian-it-job-trends-dashboard)
 
