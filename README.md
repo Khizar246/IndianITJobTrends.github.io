@@ -26,17 +26,8 @@ A comprehensive, interactive dashboard that transforms **30,000+ real job postin
 - **💰 Salary Expectations**: Set realistic compensation goals based on real market data
 - **🗺️ Career Roadmaps**: Follow structured learning paths with YouTube resources
 - **📍 Location Planning**: Compare opportunities across Indian tech hubs
-
-### **For Working Professionals 👩‍💻**
 - **💸 Salary Benchmarking**: Know your market worth for better negotiations
-- **🔄 Career Transitions**: Identify in-demand skills for your next role
-- **📈 Growth Planning**: Understand compensation progression patterns
 - **🏙️ Relocation Decisions**: Compare market opportunities across cities
-
-### **For Recruiters & HR 🤝**
-- **💼 Market Intelligence**: Understand competitive compensation ranges
-- **🎯 Skill Demand**: Identify trending technologies for job descriptions
-- **📊 Hiring Strategy**: Make data-driven recruitment decisions
 
 ---
 
