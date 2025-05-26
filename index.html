@@ -560,7 +560,7 @@
                         </select>
                     </div>
                     <div class="filter-group" id="salaryFilters3" style="display:none;">
-                        <label for="jobRole">Job Role</label>
+                        <label for="jobRole">Job Title</label>
                         <select id="jobRole">
                             <option value="All">All Job Roles</option>
                         </select>
@@ -1655,7 +1655,12 @@
 
         // Event listener for job role filter - removed since Role Insights section was removed
         document.addEventListener('DOMContentLoaded', function() {
-            // Job role filter functionality removed as requested
+            setTimeout(() => {
+                const jobRoleFilter = document.getElementById('jobRole');
+                if (jobRoleFilter) {
+                    jobRoleFilter.addEventListener('change', filterData);
+                }
+            }, 1000);
         });
 
         // Initialize dashboard - with delay to ensure libraries are loaded
