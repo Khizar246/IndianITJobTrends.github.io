@@ -2,9 +2,6 @@
 
 > **Empowering IT careers through data-driven insights**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://khizar246.github.io/IndianITJobTrends.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Khizar246/IndianITJobTrends.github.io)
-
 ---
 
 ## 💡 **Inspiration & Vision**
@@ -18,7 +15,7 @@ The Indian IT industry is booming, but **navigating career decisions** in this r
 - 📊 **Market data** exists but isn't accessible or actionable
 
 ### **The Solution**
-A comprehensive, interactive dashboard that transforms **34,646+ real job postings** into clear, actionable insights for every stage of your IT career journey.
+A comprehensive, interactive dashboard that transforms **30,000+ real job postings** into clear, actionable insights for every stage of your IT career journey.
 
 ---
 
@@ -68,15 +65,9 @@ A comprehensive, interactive dashboard that transforms **34,646+ real job postin
 
 ### **Data Source**
 - **34,646+ Job Postings** analyzed from major Indian job portals
-- **11+ Major Cities** including Bangalore, Mumbai, Hyderabad, Chennai, Delhi NCR
+- **10+ Major Cities** including Bangalore, Mumbai, Hyderabad, Chennai, Delhi NCR
 - **100+ Technical Skills** categorized and analyzed
 - **Multiple Experience Levels** from entry-level to senior positions
-
-### **Data Processing**
-- **Skill Extraction**: Advanced parsing of job descriptions
-- **Salary Normalization**: Standardized compensation data
-- **Location Mapping**: Consistent city naming and grouping
-- **Category Classification**: Skills organized into 5 major technology areas
 
 ---
 
