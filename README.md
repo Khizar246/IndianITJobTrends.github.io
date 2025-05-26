@@ -92,19 +92,6 @@ A comprehensive, interactive dashboard that transforms **30,000+ real job postin
 3. **Filter**: Use sidebar controls to customize your analysis
 4. **Interact**: Hover over charts for detailed insights
 
-### **Local Development**
-```bash
-# Clone the repository
-git clone https://github.com/Khizar246/IndianITJobTrends.github.io.git
-
-# Navigate to project directory
-cd IndianITJobTrends.github.io
-
-# Open in browser (requires local server for CSV loading)
-# Use Live Server extension in VS Code or
-python -m http.server 8000
-```
-
 ---
 
 ## 📈 **Key Insights Discovered**
@@ -116,30 +103,11 @@ python -m http.server 8000
 4. **SQL** - Essential for data-driven roles
 5. **React** - Frontend development standard
 
-### **💰 Salary Trends**
-- **Entry Level (0-3 yrs)**: ₹8-15L average
-- **Mid Level (4-7 yrs)**: ₹15-25L average  
-- **Senior Level (8-10 yrs)**: ₹25-35L average
-- **Leadership (10+ yrs)**: ₹35L+ average
-
 ### **🏙️ City Rankings**
 - **Bangalore**: Highest opportunities, competitive salaries
 - **Hyderabad**: Growing tech hub with great value
 - **Mumbai**: Financial tech center with premium pay
 - **Chennai**: Balanced opportunities across sectors
-
----
-
-## 🎯 **Use Cases & Success Stories**
-
-### **For Career Planning**
-> *"Use the Skills Overview to identify 2-3 technologies to focus on for your next role transition"*
-
-### **For Salary Negotiations**
-> *"Reference city-specific salary data to confidently discuss compensation with employers"*
-
-### **For Learning Roadmaps**
-> *"Follow the Career Paths section to get structured learning resources for your target role"*
 
 ---
 
@@ -155,29 +123,6 @@ python -m http.server 8000
 - Focus on **major Indian tech hubs** - smaller cities may have different patterns
 - **Cost of living** varies significantly between cities
 - **Remote work** trends may impact traditional location-based analysis
-
----
-
-## 🤝 **Contributing**
-
-We welcome contributions to improve the dashboard! Here's how you can help:
-
-### **Data Contributions**
-- Submit additional job market data
-- Suggest new cities or regions to analyze
-- Share salary benchmarking insights
-
-### **Feature Requests**
-- Propose new visualization ideas
-- Suggest additional filtering options
-- Request new analytical dimensions
-
-### **Technical Improvements**
-- Performance optimizations
-- Mobile experience enhancements
-- Accessibility improvements
-
-**Get Started**: Open an issue or submit a pull request!
 
 ---
 
